@@ -1,4 +1,5 @@
-import Help from './Help'
+import React from 'react'
+ import Help from './help'
 
 const liStyle = {
     'display' : 'inline',

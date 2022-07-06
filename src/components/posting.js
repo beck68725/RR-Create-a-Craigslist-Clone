@@ -1,3 +1,5 @@
+import React from 'react'
+
 const Posting = (props) => {
   return (
       <div className="posting">
